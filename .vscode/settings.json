@@ -1,4 +1,5 @@
 {
     "workbench.editor.showTabs": "multiple",
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "gitdoc.enabled": true
 }
