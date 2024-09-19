@@ -11,7 +11,7 @@ Due Date: Week 2
 
 Purpose: The purpose of this Lab assignment is to:
 
--   Practice the use of Java classes
+- Practice the use of Java classes
 
 References: Learning materials for week 1, textbook, and other
 references (if any)
@@ -61,25 +61,25 @@ instructions to develop the application:
 
 Create a class named Singers with the following specifications:
 
--   5 instance variables that would store the following singer data (Use
+- 5 instance variables that would store the following singer data (Use
     recommended variable naming conventions and appropriate data type
     for each instance variable):
 
-    -   Singer’s id
+  - Singer’s id
 
-    -   Singer’s name
+  - Singer’s name
 
-    -   Singer’s address
+  - Singer’s address
 
-    -   Date of birth
+  - Date of birth
 
-    -   Number of albums published
+  - Number of albums published
 
--   Several constructors that would allow you to construct Singer object
+- Several constructors that would allow you to construct Singer object
     with no arguments, 1 argument, 2 arguments, 3 arguments, 4
     arguments, and 5 arguments.
 
--   Create Setters and getters for all the instance variables of class
+- Create Setters and getters for all the instance variables of class
     Singer. Make sure to have several setters that would allow you to
     set the values of individual instance variables of the singer
     object. Also create one setter that would allow you to set all the
@@ -87,11 +87,11 @@ Create a class named Singers with the following specifications:
     that would allow you to get the current individual values of each
     instance variables of the Singer object.
 
--   Create the driver class that would create 1 Singer (singer1) object
+- Create the driver class that would create 1 Singer (singer1) object
     with the help of the no argument constructor. Display the default
     values of the instance variables of this object singer1.
 
--   Set the values of each instance variables with the help of setters.
+- Set the values of each instance variables with the help of setters.
     Display the values.
 
 **Evaluation:**
